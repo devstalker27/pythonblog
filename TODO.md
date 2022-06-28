@@ -3,7 +3,7 @@
 ## 2) Create django project, make migrations:
     - django-admin startproject pythonblog
     - django-admin migrate
-## 3) Make structure of project, create application:
+## 3) Make structure of project, create application, append routing, add app in settings:
     - django-admin startapp blog
 
 ## 4) Create base template and create main page with python web developer roadmap
